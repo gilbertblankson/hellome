@@ -1,1 +1,5 @@
-I love my baby
+<<<<<<< HEAD
+Ow love whatsup
+=======
+Ow love whatsup
+>>>>>>> master
