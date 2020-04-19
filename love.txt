@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ow love whatsup
+=======
+Ow love whatsup
+>>>>>>> master
